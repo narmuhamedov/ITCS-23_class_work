@@ -1,5 +1,5 @@
 # lambda func / Try expect
-
+# dksnckdjsnclnsdlcnlsdnlcnsdlnclksdclksdlkcnlksdnclksdnclksdncl
 while True:
     try:
         number_1 = float(input('Enter a number1: '))
